@@ -1,0 +1,3 @@
+이 repository는 git을 학습하기 위한 목적으로 만들어졌습니다
+
+this is git repository to learn git.
