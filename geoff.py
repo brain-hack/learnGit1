@@ -12,7 +12,9 @@ class Geoff:
 
     def chat(conversation):
         return "I don't know that"
-
+    
+    def sayHi(name):
+        return f"Hi,{name}! I am Geoff"
 
 
 if __name__ == "__main__":
